@@ -1,1 +1,2 @@
 # Litho
+Litho Typeface est une police de caractères basé sur les motifs lithologiques utilise par les geologues americains. Les matieres principales correspondent a un glyphe qui leur est propre. La Litho transforme les motifs scientifiques conventionnels en veritable ecriture digitale et en propose une relecture. Dans l?hypothese de l?Anthropocene, quels genre de motifs laisse(ra) l?homme dans les couches terrestres futures?Que se passe-t-il typographiquement si ces couches se plient, se detachent, se recombinent, se tordent? 
